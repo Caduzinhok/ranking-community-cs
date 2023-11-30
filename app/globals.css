@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-navbar: #0d1b2a;
+  --bg-button: #778da9;
+  --bg-primary: #edf2f4;
+  --bg-ranking: #1b263b;
+  
+  --text-button: #8b8c89;
+  --text-primary: #e0e1dd;
+
+  --hover-text-primary: #fefee3;
+  --hover-bg-button: #415a77;
+
+}
