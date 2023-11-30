@@ -1,5 +1,6 @@
 export const dataRanking = [
     {
+        teamID: "okas23sadokas2-1",
         teamName: "MIBR",
         teamLogo :"",
         countVotes: 32,
@@ -12,6 +13,7 @@ export const dataRanking = [
         ]
     },
     {
+        teamID: "pdl23sa50fds2-1",
         teamName: "FURIA",
         teamLogo :"",
         countVotes: 22,
@@ -24,6 +26,7 @@ export const dataRanking = [
         ]
     },
     {
+        teamID: "0dsadxc9-1",
         teamName: "Pain",
         teamLogo :"",
         countVotes: 18,
@@ -36,6 +39,7 @@ export const dataRanking = [
         ]
     },
     {
+        teamID: "vcovq502232s2-1",
         teamName: "Imperial",
         teamLogo :"",
         countVotes: 21,
@@ -48,6 +52,7 @@ export const dataRanking = [
         ]
     },
     {
+        teamID: "-2xz02502232s2-1",
         teamName: "Fluxo",
         teamLogo :"",
         countVotes: 8,
